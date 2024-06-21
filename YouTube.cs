@@ -10,7 +10,7 @@ using System.Data.SqlTypes;
 
 namespace ExamplesOfSeleniumTesting
 {
-    public class Tests
+    public class YouTubeTests
     {
         IWebDriver driver;
         WebDriverWait wait;
